@@ -1,0 +1,3 @@
+LoginTitle=登录
+RegisterLabel=注册
+MainLabel=小说查询系统 
